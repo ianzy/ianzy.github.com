@@ -1,16 +1,420 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[IANZY]]></title>
   <link href="http://ianzy.github.com/atom.xml" rel="self"/>
   <link href="http://ianzy.github.com/"/>
-  <updated>2012-09-27T00:42:19-07:00</updated>
+  <updated>2013-04-03T00:34:14-07:00</updated>
   <id>http://ianzy.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[ianzy]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Anwhat about pagination3]]></title>
+    <link href="http://ianzy.github.com/blog/2012/10/03/anwhat-about-pagination3/"/>
+    <updated>2012-10-03T00:07:00-07:00</updated>
+    <id>http://ianzy.github.com/blog/2012/10/03/anwhat-about-pagination3</id>
+    <content type="html"><![CDATA[<h2>We all like making lists</h2>
+
+<p>The above header should be an H2 tag. Now, for a list of fruits:</p>
+
+<ul>
+<li>Red Apples</li>
+<li>Purple Grapes</li>
+<li>Green Kiwifruits</li>
+</ul>
+
+
+<p>Let&#8217;s get crazy:</p>
+
+<ol>
+<li><p>This is a list item with two paragraphs. Lorem ipsum dolor
+sit amet, consectetuer adipiscing elit. Aliquam hendrerit
+mi posuere lectus.</p>
+
+<p>Vestibulum enim wisi, viverra nec, fringilla in, laoreet
+vitae, risus. Donec sit amet nisl. Aliquam semper ipsum
+sit amet velit.</p></li>
+<li><p>Suspendisse id sem consectetuer libero luctus adipiscing.</p></li>
+</ol>
+
+
+<p>What about some code <strong>in</strong> a list? That&#8217;s insane, right?</p>
+
+<ol>
+<li><p>In Ruby you can map like this:</p>
+
+<pre><code> ['a', 'b'].map { |x| x.uppercase }
+</code></pre></li>
+<li><p>In Rails, you can do a shortcut:</p>
+
+<pre><code> ['a', 'b'].map(&amp;:uppercase)
+</code></pre></li>
+</ol>
+
+
+<p>Some people seem to like definition lists</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Anwhat about pagination2]]></title>
+    <link href="http://ianzy.github.com/blog/2012/10/03/anwhat-about-pagination2/"/>
+    <updated>2012-10-03T00:07:00-07:00</updated>
+    <id>http://ianzy.github.com/blog/2012/10/03/anwhat-about-pagination2</id>
+    <content type="html"><![CDATA[<h2>We all like making lists</h2>
+
+<p>The above header should be an H2 tag. Now, for a list of fruits:</p>
+
+<ul>
+<li>Red Apples</li>
+<li>Purple Grapes</li>
+<li>Green Kiwifruits</li>
+</ul>
+
+
+<p>Let&#8217;s get crazy:</p>
+
+<ol>
+<li><p>This is a list item with two paragraphs. Lorem ipsum dolor
+sit amet, consectetuer adipiscing elit. Aliquam hendrerit
+mi posuere lectus.</p>
+
+<p>Vestibulum enim wisi, viverra nec, fringilla in, laoreet
+vitae, risus. Donec sit amet nisl. Aliquam semper ipsum
+sit amet velit.</p></li>
+<li><p>Suspendisse id sem consectetuer libero luctus adipiscing.</p></li>
+</ol>
+
+
+<p>What about some code <strong>in</strong> a list? That&#8217;s insane, right?</p>
+
+<ol>
+<li><p>In Ruby you can map like this:</p>
+
+<pre><code> ['a', 'b'].map { |x| x.uppercase }
+</code></pre></li>
+<li><p>In Rails, you can do a shortcut:</p>
+
+<pre><code> ['a', 'b'].map(&amp;:uppercase)
+</code></pre></li>
+</ol>
+
+
+<p>Some people seem to like definition lists</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Anwhat about pagination1]]></title>
+    <link href="http://ianzy.github.com/blog/2012/10/03/anwhat-about-pagination1/"/>
+    <updated>2012-10-03T00:07:00-07:00</updated>
+    <id>http://ianzy.github.com/blog/2012/10/03/anwhat-about-pagination1</id>
+    <content type="html"><![CDATA[<h2>We all like making lists</h2>
+
+<p>The above header should be an H2 tag. Now, for a list of fruits:</p>
+
+<ul>
+<li>Red Apples</li>
+<li>Purple Grapes</li>
+<li>Green Kiwifruits</li>
+</ul>
+
+
+<p>Let&#8217;s get crazy:</p>
+
+<ol>
+<li><p>This is a list item with two paragraphs. Lorem ipsum dolor
+sit amet, consectetuer adipiscing elit. Aliquam hendrerit
+mi posuere lectus.</p>
+
+<p>Vestibulum enim wisi, viverra nec, fringilla in, laoreet
+vitae, risus. Donec sit amet nisl. Aliquam semper ipsum
+sit amet velit.</p></li>
+<li><p>Suspendisse id sem consectetuer libero luctus adipiscing.</p></li>
+</ol>
+
+
+<p>What about some code <strong>in</strong> a list? That&#8217;s insane, right?</p>
+
+<ol>
+<li><p>In Ruby you can map like this:</p>
+
+<pre><code> ['a', 'b'].map { |x| x.uppercase }
+</code></pre></li>
+<li><p>In Rails, you can do a shortcut:</p>
+
+<pre><code> ['a', 'b'].map(&amp;:uppercase)
+</code></pre></li>
+</ol>
+
+
+<p>Some people seem to like definition lists</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Another new post or newnew]]></title>
+    <link href="http://ianzy.github.com/blog/2012/10/02/another-new-post-or-newnew/"/>
+    <updated>2012-10-02T23:54:00-07:00</updated>
+    <id>http://ianzy.github.com/blog/2012/10/02/another-new-post-or-newnew</id>
+    <content type="html"><![CDATA[<h2>I am a robot</h2>
+
+<p>Maybe you want to print <code>robot</code> to the console 1000 times. Why not?</p>
+
+<pre><code>def robot_invasion
+  puts("robot " * 1000)
+end
+</code></pre>
+
+<p>You see, that was formatted as code because it&#8217;s been indented by four spaces.</p>
+
+<p>How about we throw some angle braces and ampersands in there?</p>
+
+<pre><code>&lt;div class="footer"&gt;
+    &amp;copy; 2004 Foo Corporation
+&lt;/div&gt;
+</code></pre>
+
+<h2>Set in stone</h2>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Another new post or notot]]></title>
+    <link href="http://ianzy.github.com/blog/2012/10/02/another-new-post-or-notot/"/>
+    <updated>2012-10-02T23:34:00-07:00</updated>
+    <id>http://ianzy.github.com/blog/2012/10/02/another-new-post-or-notot</id>
+    <content type="html"><![CDATA[<h2>We all like making lists</h2>
+
+<p>The above header should be an H2 tag. Now, for a list of fruits:</p>
+
+<ul>
+<li>Red Apples</li>
+<li>Purple Grapes</li>
+<li>Green Kiwifruits</li>
+</ul>
+
+
+<p>Let&#8217;s get crazy:</p>
+
+<ol>
+<li><p>This is a list item with two paragraphs. Lorem ipsum dolor
+sit amet, consectetuer adipiscing elit. Aliquam hendrerit
+mi posuere lectus.</p>
+
+<p>Vestibulum enim wisi, viverra nec, fringilla in, laoreet
+vitae, risus. Donec sit amet nisl. Aliquam semper ipsum
+sit amet velit.</p></li>
+<li><p>Suspendisse id sem consectetuer libero luctus adipiscing.</p></li>
+</ol>
+
+
+<p>What about some code <strong>in</strong> a list? That&#8217;s insane, right?</p>
+
+<ol>
+<li><p>In Ruby you can map like this:</p>
+
+<pre><code> ['a', 'b'].map { |x| x.uppercase }
+</code></pre></li>
+<li><p>In Rails, you can do a shortcut:</p>
+
+<pre><code> ['a', 'b'].map(&amp;:uppercase)
+</code></pre></li>
+</ol>
+
+
+<p>Some people seem to like definition lists</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[ZoHello world or not?]]></title>
+    <link href="http://ianzy.github.com/blog/2012/10/02/zohello-world-or-not/"/>
+    <updated>2012-10-02T01:30:00-07:00</updated>
+    <id>http://ianzy.github.com/blog/2012/10/02/zohello-world-or-not</id>
+    <content type="html"><![CDATA[<h1>Hello world or not？</h1>
+
+<h2>or is it?</h2>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Zombie Ninjas Attack: A survivor's retrospective]]></title>
+    <link href="http://ianzy.github.com/blog/2012/10/01/zombie-ninjas-attack-a-survivors-retrospective/"/>
+    <updated>2012-10-01T21:51:00-07:00</updated>
+    <id>http://ianzy.github.com/blog/2012/10/01/zombie-ninjas-attack-a-survivors-retrospective</id>
+    <content type="html"><![CDATA[<h1>GitHub Flavored Markdown</h1>
+
+<p><em>View the <a href="http://github.github.com/github-flavored-markdown/sample_content.html">source of this content</a>.</em></p>
+
+<p>Let&#8217;s get the whole &#8220;linebreak&#8221; thing out of the way. The next paragraph contains two phrases separated by a single newline character:</p>
+
+<p>Roses are red
+Violets are blue</p>
+
+<p>The next paragraph has the same phrases, but now they are separated by two spaces and a newline character:</p>
+
+<p>Roses are red<br/>
+Violets are blue</p>
+
+<p>Oh, and one thing I cannot stand is the mangling of words with multiple underscores in them like perform_complicated_task or do_this_and_do_that_and_another_thing.</p>
+
+<!-- more -->
+
+
+<h2>A bit of the GitHub spice</h2>
+
+<p>In addition to the changes in the previous section, certain references are auto-linked:</p>
+
+<ul>
+<li>SHA: be6a8cc1c1ecfe9489fb51e4869af15a13fc2cd2</li>
+<li>User@SHA ref: mojombo@be6a8cc1c1ecfe9489fb51e4869af15a13fc2cd2</li>
+<li>User/Project@SHA: mojombo/god@be6a8cc1c1ecfe9489fb51e4869af15a13fc2cd2</li>
+<li>#Num: #1</li>
+<li>User/#Num: mojombo#1</li>
+<li>User/Project#Num: mojombo/god#1</li>
+</ul>
+
+
+<p>These are dangerous goodies though, and we need to make sure email addresses don&#8217;t get mangled:</p>
+
+<p>My email addy is tom@github.com.</p>
+
+<h2>Math is hard, let&#8217;s go shopping</h2>
+
+<p>In first grade I learned that 5 > 3 and 2 &lt; 7. Maybe some arrows. 1 -> 2 -> 3. 9 &lt;- 8 &lt;- 7.</p>
+
+<p>Triangles man! a<sup>2</sup> + b<sup>2</sup> = c<sup>2</sup></p>
+
+<h2>We all like making lists</h2>
+
+<p>The above header should be an H2 tag. Now, for a list of fruits:</p>
+
+<ul>
+<li>Red Apples</li>
+<li>Purple Grapes</li>
+<li>Green Kiwifruits</li>
+</ul>
+
+
+<p>Let&#8217;s get crazy:</p>
+
+<ol>
+<li><p>This is a list item with two paragraphs. Lorem ipsum dolor
+sit amet, consectetuer adipiscing elit. Aliquam hendrerit
+mi posuere lectus.</p>
+
+<p>Vestibulum enim wisi, viverra nec, fringilla in, laoreet
+vitae, risus. Donec sit amet nisl. Aliquam semper ipsum
+sit amet velit.</p></li>
+<li><p>Suspendisse id sem consectetuer libero luctus adipiscing.</p></li>
+</ol>
+
+
+<p>What about some code <strong>in</strong> a list? That&#8217;s insane, right?</p>
+
+<ol>
+<li><p>In Ruby you can map like this:</p>
+
+<pre><code> ['a', 'b'].map { |x| x.uppercase }
+</code></pre></li>
+<li><p>In Rails, you can do a shortcut:</p>
+
+<pre><code> ['a', 'b'].map(&amp;:uppercase)
+</code></pre></li>
+</ol>
+
+
+<p>Some people seem to like definition lists</p>
+
+<dl>
+  <dt>Lower cost</dt>
+  <dd>The new version of this product costs significantly less than the previous one!</dd>
+  <dt>Easier to use</dt>
+  <dd>We&#8217;ve changed the product so that it&#8217;s much easier to use!</dd>
+</dl>
+
+
+<h2>I am a robot</h2>
+
+<p>Maybe you want to print <code>robot</code> to the console 1000 times. Why not?</p>
+
+<pre><code>def robot_invasion
+  puts("robot " * 1000)
+end
+</code></pre>
+
+<p>You see, that was formatted as code because it&#8217;s been indented by four spaces.</p>
+
+<p>How about we throw some angle braces and ampersands in there?</p>
+
+<pre><code>&lt;div class="footer"&gt;
+    &amp;copy; 2004 Foo Corporation
+&lt;/div&gt;
+</code></pre>
+
+<h2>Set in stone</h2>
+
+<p>Preformatted blocks are useful for ASCII art:</p>
+
+<pre>
+             ,-. 
+    ,     ,-.   ,-. 
+   / \   (   )-(   ) 
+   \ |  ,.>-(   )-< 
+    \|,' (   )-(   ) 
+     Y ___`-'   `-' 
+     |/__/   `-' 
+     | 
+     | 
+     |    -hrr- 
+  ___|_____________ 
+</pre>
+
+
+<h2>Playing the blame game</h2>
+
+<p>If you need to blame someone, the best way to do so is by quoting them:</p>
+
+<blockquote><p>I, at any rate, am convinced that He does not throw dice.</p></blockquote>
+
+<p>Or perhaps someone a little less eloquent:</p>
+
+<blockquote><p>I wish you&#8217;d have given me this written question ahead of time so I
+could plan for it&#8230; I&#8217;m sure something will pop into my head here in
+the midst of this press conference, with all the pressure of trying to
+come up with answer, but it hadn&#8217;t yet&#8230;</p>
+
+<p>I don&#8217;t want to sound like
+I have made no mistakes. I&#8217;m confident I have. I just haven&#8217;t - you
+just put me under the spot here, and maybe I&#8217;m not as quick on my feet
+as I should be in coming up with one.</p></blockquote>
+
+<h2>Table for two</h2>
+
+<table>
+  <tr>
+    <th>ID</th><th>Name</th><th>Rank</th>
+  </tr>
+  <tr>
+    <td>1</td><td>Tom Preston-Werner</td><td>Awesome</td>
+  </tr>
+  <tr>
+    <td>2</td><td>Albert Einstein</td><td>Nearly as awesome</td>
+  </tr>
+</table>
+
+
+<h2>Crazy linking action</h2>
+
+<p>I get 10 times more traffic from <a href="http://google.com/" title="Google">Google</a> than from
+<a href="http://search.yahoo.com/" title="Yahoo Search">Yahoo</a> or <a href="http://search.msn.com/" title="MSN Search">MSN</a>.</p>
+]]></content>
+  </entry>
   
 </feed>
